@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**Als** [Rolle]  
- **Brauche ich** [Funktion]  
- **Damit** [Nutzen]  
+**As a** [Rolle]  
+ **I need** [Funktion]  
+ **So that** [Nutzen]  
    
- ### Details und Annahmen
- * [Dokumentieren Sie, was Sie wissen]
+ ### Details and Assumptions
+ * [document what you know]
    
- ### Akzeptanzkriterien  
+ ### Acceptance Criteria  
    
  ```gherkin
- Gegeben [ein gewisser Kontext]
- Wenn [eine bestimmte Aktion durchgeführt wird]
- Dann [wird das Ergebnis der Aktion beobachtet]
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
